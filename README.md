@@ -94,7 +94,7 @@ This project explores whether weekly CoT data can forecast returns in major comm
 Clone the repository and install dependencies:
 
 ```
-git clone https://github.com/divij5267/cot-signal-lab.git
+git clone https://github.com/divij5267/Cot-Signal-Lab.git
 cd cot-signal-lab
 ```
 
